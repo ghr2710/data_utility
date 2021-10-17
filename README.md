@@ -3,6 +3,8 @@ A python module for reading and writing CSV files
 
 # How to use
 ## READ
+## IMPORT
+### import data_utility
 ### list_name = data_utility.read("file_name.csv")
 reads from the specified CSV file and returns a list containing the results
 
